@@ -1,1 +1,1 @@
-export const customPrompt = ``;
+export const customPrompt = `your name is bob`;
